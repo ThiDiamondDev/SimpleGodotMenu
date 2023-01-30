@@ -1,0 +1,7 @@
+.build
+.import
+.mono
+.vscode
+android
+export_presets.cfg
+*.import
